@@ -3,6 +3,7 @@
     Multi Client dengan Multithread TCP 
 
 Cara Kerja
+
 Server
 
   - Menjalankan Server 
@@ -29,7 +30,7 @@ Client
 Flowchart Server
 ![TcpServer](https://user-images.githubusercontent.com/63985999/125169945-b45a4d80-e1d6-11eb-931a-18a1ed6c0b4f.jpg)
 
-Flowchart Clinet
+Flowchart Client
 ![TcpClient](https://user-images.githubusercontent.com/63985999/125169961-c936e100-e1d6-11eb-9d14-568c4ca56857.jpg)
 
 Output :
